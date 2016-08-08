@@ -1,15 +1,27 @@
-layout_spectrum: 0.427800017176196
-typography_spectrum: 0.3920807312242687
+title: Una gran dosis de locura es necesaria
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.4557945
 color:
+  saturation: 0.9002389
   brandStrength: 0.2224630657583475
-  lightness: 0.023549993289634585
-  saturation: 0.5651546756271273
-  rhythmicContrast: 0.476537152659148
+  lightness: 0.5465949
   brandColors:
     - '#B0CC99'
     - '#677E52'
     - '#B7CA79'
     - '#F6E8B1'
     - '#89725B'
+  rhythmicContrast: 0.9109916
+layout_spectrum: 0.146356
 name: better psychosis
-title: Una gran dosis de locura es necesaria
