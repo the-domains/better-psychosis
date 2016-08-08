@@ -11,17 +11,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.0561194175388664
+typography_spectrum: 0.21431971457786858
 color:
-  saturation: 0.2076814693864435
-  brandStrength: 0.8413194750901312
-  lightness: 0.8093840042129159
+  saturation: 0.9834548982325941
+  brandStrength: 0.08607615204527974
+  lightness: 0.9881378030404449
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  rhythmicContrast: 0.5509830452501774
-layout_spectrum: 0.8720034887082875
+    - '#F9E4AD'
+    - '#E6B098'
+    - '#CC4452'
+    - '#723147'
+    - '#31152B'
+  rhythmicContrast: 0.7710177998524159
+layout_spectrum: 0.29923320305533707
 name: better psychosis
