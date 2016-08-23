@@ -1,5 +1,6 @@
-layout_spectrum: 0.9568900659214705
 typography_spectrum: 0.7433722424320877
+content_rating:
+  adult: false
 color:
   saturation: 0.9834548982325941
   brandStrength: 0.08607615204527974
@@ -11,8 +12,9 @@ color:
     - '#723147'
     - '#31152B'
   rhythmicContrast: 0.7710177998524159
-content_rating:
-  adult: false
+layout_spectrum: 0.9568900659214705
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/63bfe016-6042-4799-b71d-e0bdef04092a.png
 name: better psychosis
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d66041f4-7628-4d55-8c32-601fd406f06c.png
