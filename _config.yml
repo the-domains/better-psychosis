@@ -1,33 +1,33 @@
-layout_spectrum: 0.5488404284697026
-typography_spectrum: 0.38690773234702647
-color:
-  saturation: 0.48984651220962405
-  brandStrength: 0.9246080310549587
-  lightness: 0.6757324517238885
-  brandColors:
-    - '#595241'
-    - '#B8AE9C'
-    - '#FFFFFF'
-    - '#ACCFCC'
-    - '#8A0917'
-  rhythmicContrast: 0.9586690508294851
+title: ''
 content_rating:
   adult: false
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/63bfe016-6042-4799-b71d-e0bdef04092a.png
-name: better psychosis
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d66041f4-7628-4d55-8c32-601fd406f06c.png
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: ''
+    permalink:
+      path: '/:title/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/63bfe016-6042-4799-b71d-e0bdef04092a.png
+color:
+  saturation: 0.4898465122096241
+  brandStrength: 0.9246080310549587
+  rhythmicContrast: 0.9586690508294851
+  brandColors:
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+  lightness: 0.6757324517238885
+typography_spectrum: 0.518797
+layout_spectrum: 0.7606516
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d66041f4-7628-4d55-8c32-601fd406f06c.png
+name: better psychosis
