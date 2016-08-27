@@ -1,6 +1,7 @@
 title: ''
-content_rating:
-  adult: false
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d66041f4-7628-4d55-8c32-601fd406f06c.png
+name: better psychosis
 collections:
   - index:
       path: /
@@ -27,7 +28,6 @@ color:
     - '#8A0917'
   lightness: 0.6757324517238885
 typography_spectrum: 0.518797
-layout_spectrum: 0.7606516
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d66041f4-7628-4d55-8c32-601fd406f06c.png
-name: better psychosis
+layout_spectrum: 0.5964912
+content_rating:
+  adult: false
